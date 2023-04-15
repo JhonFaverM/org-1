@@ -1,0 +1,49 @@
+.formulario {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 80px 50px; /*50 es espacio en los lados*/
+    flex-wrap: wrap;/*acomoda las cards cuando no caben en una solo linea*/
+    gap: 20px;  /*espacio entre las columnas*/
+}
+
+.formulario form {
+    /*max-width: 80%;*/
+    background: #F7F7F7;
+    box-shadow: 7px 7px 15px rgba(0, 0, 0, 20%);
+    border-radius: 20px;
+    padding: 8px 100px; /*medida interna altura 2do orizontal*/
+    flex: 1;/*cards iguales y flex*/
+}
+
+.formulario {
+    font-size: 32px;
+    font-weight: 400;
+    color: #212121;
+}
+
+/* 
+position: absolute;
+width: 729px;
+height: 43px;
+
+font-family: 'Prata';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 43px;
+display: flex;
+align-items: center;*/
+
+/*
+https://github.com/harlandlohora.png
+
+https://github.com/genesysaluralatam.png
+
+https://github.com/JeanmarieAluraLatam.png
+
+https://github.com/christianpva.png
+
+https://github.com/JoseDarioGonzalezCha.png
+
+https://github.com/JhonFaverM.png
+*/
