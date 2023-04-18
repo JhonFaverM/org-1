@@ -21,7 +21,3 @@ const Colaborador = (props) => {
 
 
 export default Colaborador
-
-
-//<img src="https://github.com/JhonFaverM.png" alt="Jhon M" />
-//{fav ? <AiFillHeart color="red" onClick={() => like(id)} /> : <AiOutlineHeart onClick={() => like(id)} />}

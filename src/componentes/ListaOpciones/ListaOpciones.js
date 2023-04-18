@@ -2,11 +2,6 @@ import "./ListaOpciones.css"
 
 
 const ListaOpciones = (props) => {
-      //Para recorrer un arreglo se usa metodo map = arreglo.map((equipo, index)=>{
-      //  return <option></option>  
-      //})
-  
-
   const manejarCambio = (e) => {
     console.log("cambio", e.target.value)
     props.actualizarEquipo(e.target.value)
