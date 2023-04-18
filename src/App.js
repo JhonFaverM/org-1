@@ -15,20 +15,12 @@ function App() {
       equipo: "Front End",
       foto: "https://github.com/JhonFaverM.png",
       nombre: "Jhon Faver Machado",
-      puesto: "Estudiante desarrollo",
+      puesto: "Junior Developer",
       favorito: true
     },
     {
       id: uuid(),
-      equipo: "Front End",
-      foto: "https://github.com/JhonFaverM.png",
-      nombre: "Monica Lizeth Riscanevo",
-      puesto: "Ing Transporte & Vias",
-      favorito: true
-    },
-    {
-      id: uuid(),
-      equipo: "Front End",
+      equipo: "Data Science",
       foto: "https://github.com/harlandlohora.png",
       nombre: "Harland Lohora",
       puesto: "Instructor",
