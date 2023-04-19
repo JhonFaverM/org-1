@@ -52,6 +52,14 @@ function App() {
     },
     {
       id: uuid(),
+      equipo: "UX y Diseño",
+      foto: "https://github.com/christianpva.png",
+      nombre: "Christian Velasco",
+      puesto: "Head de Alura e Instructor",
+      favorito: false
+    },
+    {
+      id: uuid(),
       equipo: "Innovación y Gestión",
       foto: "https://github.com/JoseDarioGonzalezCha.png",
       nombre: "Jose Gonzalez",
